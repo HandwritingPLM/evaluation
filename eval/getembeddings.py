@@ -1,7 +1,7 @@
 import torch
 from eval import gpuutils
 
-def get_embedding(text, model, tokenizer, device=gpuutilsget_gpu_most_memory):
+def get_embedding(text, model, tokenizer):
     inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512) # tokenize text
     
     with torch.no_grad():
