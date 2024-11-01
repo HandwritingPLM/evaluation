@@ -52,4 +52,5 @@ def get_all_embeddings(text_glob_path, save_dir, model, tokenizer, device, max_l
             save_path = os.path.join(save_dir, os.path.basename(text_fn).replace('.txt', '.pt'))
             if os.path.exists(save_path): continue # dont need to repeat embedding computation
             embedding = get_embedding_pool(text, model=model, tokenizer=tokenizer, device=device, max_len=max_len) # max len 512 for bert
+            embedding = embedding.cpu() # put embedding on cpu before saving it
             torch.save(embedding, save_path)
