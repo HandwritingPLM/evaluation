@@ -1,9 +1,8 @@
+import os
+from glob import glob
 import torch
 from eval import gpuutils
 
-def get_token_length(text, tokenizer):
-    tokens = tokenizer(text, truncation=False)
-    return len(tokens["input_ids"])
 
 def get_embedding(text, model, tokenizer, device, max_len=512):
     inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=max_len).to(device) # tokenize text
@@ -22,7 +21,6 @@ def get_embedding_pool(text, model, tokenizer, device='cpu', max_len = None, agg
     else:
         tokens = tokenizer(text, return_tensors="pt", truncation=False)
         token_length = tokens["input_ids"].size(1) # get length so we can see if we need to get embeddings for each portion of input (max len 512 tokens before splitting)
-        print(f"Token length: {token_length}")
 
         chunk_embeddings = []
         if token_length > max_len:
@@ -44,4 +42,14 @@ def get_embedding_pool(text, model, tokenizer, device='cpu', max_len = None, agg
             # its shorter then max length so send it
             return get_embedding(text, model, tokenizer, device, max_len)
 
-    
+
+
+def get_all_embeddings(text_glob_path, save_dir, model, tokenizer, device, max_len=512):
+    text_fns = glob(text_glob_path)
+    for text_fn in text_fns:
+        with open(text_fn) as f:
+            text = f.read()
+            save_path = os.path.join(save_dir, os.path.basename(text_fn).replace('.txt', '.pt'))
+            if os.path.exists(save_path): continue # dont need to repeat embedding computation
+            embedding = get_embedding_pool(text, model=model, tokenizer=tokenizer, device=device, max_len=max_len) # max len 512 for bert
+            torch.save(embedding, save_path)
