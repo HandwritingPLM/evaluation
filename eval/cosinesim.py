@@ -29,7 +29,7 @@ def get_cosine_sim_bert(gt_arr, pred_arr, model=None, tokenizer=None, device=Non
     model.to(device)
     model.eval()
 
-    #### Get embeddings ####
+    #### get embeddings ####
     gt_embeddings = []
     pred_embeddings = []
   
