@@ -1,0 +1,2 @@
+raw: Both theories see the audience as passive. But the mass society model sees the audience as passive, accepting whatever the mass media choose to communicate. Uses media effects in terms of the audience as a mass centralized, homogenous group. 
+cleaned: Both theories see the audience as passive. But the mass society model sees the audience as passive, accepting whatever the mass media choose to communicate. It views media effects in terms of the audience as a mass centralized, homogeneous group.

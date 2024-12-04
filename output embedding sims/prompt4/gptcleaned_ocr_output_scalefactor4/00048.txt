@@ -1,0 +1,3 @@
+Raw: Kantali was a leadin philosopher, hist thoughts have had a profound impact on modern philosophy.
+
+Cleaned: Kant was a leading philosopher; his thoughts have had a profound impact on modern philosophy.

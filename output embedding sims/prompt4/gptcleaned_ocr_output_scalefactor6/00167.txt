@@ -1,0 +1,2 @@
+raw: Thens docanents origorally refered to books that coctaine a countee f visitratulations of conquest9 = today the term coversaducument or pactares as well 
+cleaned: The term "documents" originally referred to books that contained accounts of conquests; today, the term covers any document or picture as well.

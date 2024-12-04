@@ -1,0 +1,6 @@
+Innovation-decisions process has five stages, according to Rogers (1995):
+1. Knowledge + or - (selective exposure or awareness of news)
+2. Attitudes + or - (people have positive or negative attitude toward innovations)
+3. Adoption (Decision): people decide to adopt the innovation
+4. Implementation (regular or standard practice)
+5. Confirmation (comparing and evaluating)

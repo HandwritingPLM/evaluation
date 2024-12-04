@@ -1,0 +1,15 @@
+During the Korean War, he served in the U.S. Air Force. Interestingly, in 1966, he worked on some family planning communication projects in Korea. He has become the standard textbook on diffusion theory and delineates applications of diffusion theory in fields such as geography, economics, psychology, political science, and communication. Rogers retired from the University of New Mexico in 2004 because of kidney disease. He died on October 21, 2005.
+
+According to Rogers (1996), diffusion refers to "the process by which an innovation is communicated through certain channels over time among the members of a social system. An innovation is an idea, practice or object perceived as new by an individual or other unit of adoption. The diffusion of innovations involves both mass media and interpersonal communication channels."
+
+That is, by sharing communication channels such as interpersonal communication or mass communication, people can get information about an innovation and perceive its usefulness. Lasswell (1948) presented a well-known model of communication analyzed as five parts: S-M-C-R-E (sender-message-channel-receiver-effect). Rogers (1995) mentioned, "this S-M-C-R-E communication model corresponds closely to the elements of diffusion." Specifically, the sender can be inventors or opinion leaders, the message can be a new idea or product, the channels can be interpersonal or mass communication, the receivers can be members of a social system, and finally, the effects can be individual adoption or social change. In diffusion theory, the 'Time' variable is a very important factor. According to Rogers (1993), the time variable is involved in diffusion in the innovation-decision process, innovativeness, and an innovation's rate of adoption. Most innovations have an S-shaped curve of adoption.
+
+There are five different types of adopters in the diffusion process, according to innovativeness: Innovators (venturesome), Early Adopters (respectable), Early Majority (Deliberate), Late Majority (skeptical), and Laggards (traditional). Rogers defined this term as "the degree to which an individual is relatively earlier in adopting new ideas than other members of his social system." Figure 1 shows the relationships between types of adopters divided by innovativeness and their place on the adoption curve. Also, these categories follow a standard deviation curve which is bell-shaped.
+
+Rogers (1993) mentioned that there are five stages in the process of innovation-decisions:
+
+1. Knowledge
+2. Attitudes
+3. Adoption
+4. Implementation
+5. Confirmation

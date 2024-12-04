@@ -1,0 +1,2 @@
+raw: Physcology first began to study propaganda in earnest during the first World War. For example, Lasswell (1927) provided an anlaysis of propaganda that considerd the messages and their impact on the audience. 
+cleaned: Psychology first began to study propaganda in earnest during the first World War. For example, Lasswell (1927) provided an analysis of propaganda that considered the messages and their impact on the audience.

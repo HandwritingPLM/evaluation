@@ -1,0 +1,9 @@
+Like many other structuralist scholars, Barthes was influenced by Ferdinand de Saussure, the linguistic theorist who broke down language operations into two levels, the systemic level, represented by langue, and the spoken level, represented by parole (Saussure, 1955). The former is considered language and the latter speech, with conventions necessary for communication (Foss, 1996).
+
+A language is therefore a social institution and a system of values. The social aspect of language, langue, represents a collective agreement that must be accepted in its entirety when wishing to communicate because language is a system of shared values that resists modifications from individuals.
+
+Focusing on the systematic level, Saussure distinguishes language as having two parts, the signified and the signifier. The signified is the concept or meaning, while the signifier is the external form. The relationship between the signified and the signifier is arbitrary, with meaning constructed from differences within a series of conceptual and phonic differences (Saussure, 1950). The meaning is produced through a selection and combination of signs organized into a signifying system. 
+
+The combination of signs in language operates within the framework of syntagmatic and paradigmatic axes, with selection regulated by consensus within the linguistic community. Saussure argues that meaning is not derived from reference to an external reality but is constructed through the relationships between signs, forming a social institution based on these relationships (Barker, 2002).
+
+Overall, Saussure’s argument emphasizes that meaning is generated through a system of signs and their relations, rather than through reference to external objects. This highlights the importance of cultural conventions and the usage of signs within specific contexts in understanding language and communication.

@@ -1,0 +1,1 @@
+Penetration testing is a crucial element for fully exploiting potential vulnerabilities and weaknesses in a network.

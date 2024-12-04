@@ -1,0 +1,9 @@
+In his textbook on diffusion theory, economics, psychology, Harold Lasswell retired from the University of Mexico in 2004 because he was suffering from kidney disease. He died on October 21, 2005.
+
+Diffusion refers to the process by which an innovation is communicated to members of a social system. An innovation is created through applications of diffusion theory and it includes various fields such as geography, political science, and, as previously mentioned, communication. Rogers (1996) explained the process by which an innovation is communicated through the elements of diffusion, utilizing a well-known communication model, S-M-C-R-E.
+
+The sender can be inventors or opinion leaders, the message can be a new idea or product, the channels can be interpersonal or mass communication, the receivers can be members of a social system, and finally, the effects can be individual adoption or social change. The time variable is a crucial factor in diffusion theory, influencing the innovation-decision process, innovativeness, and the rate of adoption of innovations.
+
+There are five different types of adopters in the diffusion process according to innovativeness: Innovators, Early Adopters, Early Majority, Late Majority, and Laggards. These adopters follow a standard deviation curve which is bell-shaped, showing the spread of innovation through society over an S-shaped curve.
+
+In terms of the innovation-decision process, there are five stages: knowledge (selective exposure or awareness of news), attitudes (positive or negative attitude toward innovations), adoption (decision to adopt the innovation), implementation (regular or standard practice), and confirmation (comparing and evaluating).

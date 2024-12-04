@@ -1,0 +1,3 @@
+Raw: Propagerila has been used since ancient times to influence public opinion and shape perceptions.
+
+Cleaned: Propaganda has been used since ancient times to influence public opinion and shape perceptions.

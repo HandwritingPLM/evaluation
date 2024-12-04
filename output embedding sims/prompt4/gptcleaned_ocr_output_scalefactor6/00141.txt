@@ -1,0 +1,3 @@
+raw: Poeple oftan bo not realize the impact that propaganda has on the public opinion and decision-making processes. A thorough understanding of these influences is critica to ensuring a well-informed society. 
+
+cleaned: People often do not realize the impact that propaganda has on public opinion and decision-making processes. A thorough understanding of these influences is critical to ensuring a well-informed society.

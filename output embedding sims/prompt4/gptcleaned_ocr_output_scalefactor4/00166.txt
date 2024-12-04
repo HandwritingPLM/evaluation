@@ -1,0 +1,3 @@
+raw: The countrbutezions of these scholazas has paved thA wa; for the study of mefa and the impacts of propaganda in our soutiety. 
+
+Cleaned: The contributions of these scholars have paved the way for the study of media and the impacts of propaganda in our society.

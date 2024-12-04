@@ -1,0 +1,2 @@
+raw: Paragenymes can arise from duplication events, which can lead to paralogues. 
+cleaned: Paragenes can arise from duplication events, which can lead to paralogs.

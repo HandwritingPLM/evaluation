@@ -1,0 +1,3 @@
+raw: The rise of mass communication theories in the early 20th century coincided with increasing concerns about the influence of propaganda on public opinion. Many scholars, such as Lippman, Lasswell, and Bernays, began to study the role of propaganda in shaping public perceptions and behavior (Jones, 1999). 
+
+cleaned: The rise of mass communication theories in the early 20th century coincided with increasing concerns about the influence of propaganda on public opinion. Many scholars, such as Lippmann, Lasswell, and Bernays, began to study the role of propaganda in shaping public perceptions and behavior (Jones, 1999).

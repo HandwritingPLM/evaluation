@@ -1,0 +1,3 @@
+raw: Epistemology is the study of how conditions of knowledge from Epistemology Mellor, P.
+
+cleaned: Epistemology is the study of the conditions of knowledge (Mellor, P.).

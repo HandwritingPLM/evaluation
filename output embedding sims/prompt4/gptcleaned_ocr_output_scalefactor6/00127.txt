@@ -1,0 +1,2 @@
+raw: It was utulized to stete ghat thare werg boesg bonds with News Ceiahers 
+cleaned: It was utilized to state that there were strong bonds with news gatherers.

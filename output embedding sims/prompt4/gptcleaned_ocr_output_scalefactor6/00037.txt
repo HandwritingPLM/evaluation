@@ -1,0 +1,3 @@
+raw: The role of propaganda in shaping public opinion has been studied by many scholars such as Edwad Bernays, Noam Chomsky, Harold Lasswell, and Walter Lippman. Each had their own unique perspective on the subject. 
+
+cleaned: The role of propaganda in shaping public opinion has been studied by many scholars such as Edward Bernays, Noam Chomsky, Harold Lasswell, and Walter Lippmann. Each had their own unique perspective on the subject.

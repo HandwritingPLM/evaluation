@@ -1,0 +1,11 @@
+Like many other structuralist scholars, Barthes was influenced by Ferdinand de Saussure, the linguistic scholar who separated language operations into two levels, the systematic (langue) and the open-ended (parole) levels of each speech act.
+
+The former, langue, is the system of conventions necessary for communication, while the latter, parole, is considered flexible because individual speech cannot be constrained by conventions but instead reflects the personal expression of the speaker.
+
+Language is therefore a social institution and system of values, with social language being a collective contract that must be accepted entirely for communication to occur. In contrast, speech is an individual act of selection and realization using the language code to express personal thoughts.
+
+Saussure also distinguishes language into the signified (meaning) and the signifier (form), with the correspondence between them being arbitrary. Meaning is constructed within the language system through a selection and combination of signs along a syntagmatic (sentence) and paradigmatic (synonyms) axis.
+
+Saussure argues that meaning is not reflective of external reality but is constructed through internal linguistic differences. The selection of signs is regulated by consensus within the linguistic community.
+
+Overall, Saussure emphasizes the importance of the relationships between signs in generating meaning within a cultural context.

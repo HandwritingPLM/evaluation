@@ -1,0 +1,3 @@
+raw: Lippman suggested that people navigable through life “with their bodies at rest and their minds in gear”. Lasswell, by contrast, pointed out that people may ramble through life with their bodies at rest, but with their minds madly searching for the unknown (Lasswell, 1927). 
+
+cleaned: Lippmann suggested that people navigate through life "with their bodies at rest and their minds in gear". Lasswell, by contrast, pointed out that people may ramble through life with their bodies at rest, but with their minds madly searching for the unknown (Lasswell, 1927).

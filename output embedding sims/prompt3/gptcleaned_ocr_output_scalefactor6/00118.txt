@@ -1,0 +1,3 @@
+raw: Lippmann Wundiede about the potency of propaganda and how it could Shoka bilieve and Change peoples minds. Before the Hood War and htsat meUped him to realize the potential of propaganda, much of war-time information was kecp sul and vetted by the British government. Hint: [gringe, p. 34].
+
+cleaned: Lippmann wondered about the potency of propaganda and how it could shape beliefs and change people's minds. Before the World War shifted him to realize the potential of propaganda, much of war-time information was kept silent and vetted by the British government. (Gringo, p. 34).

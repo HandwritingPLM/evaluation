@@ -1,0 +1,7 @@
+The following text is from OCR. There are some errors. Please fix them and return the corrected text with no additional correspondence:
+
+Original text:
+Thi5 s3nt3nc3 h4s m4ny numb3r5 1n 1t.
+
+Corrected text:
+This sentence has many numbers in it.

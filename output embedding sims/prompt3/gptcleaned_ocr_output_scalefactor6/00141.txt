@@ -1,0 +1,3 @@
+raw: Poistivisin teollisuudenala on ehdottomasti terveysteknologia, jonka arvioidaan kasvavan nopeimmin. Monet asiantuntijat luottavatkin sairauksien diagnosointiin, hoitoon ja ennaltaehkäisyyn.
+
+cleaned: Positiivisin teollisuudenala on ehdottomasti terveysteknologia, jonka arvioidaan kasvavan nopeimmin. Monet asiantuntijat luottavatkin sairauksien diagnosointiin, hoitoon ja ennaltaehkäisyyn.

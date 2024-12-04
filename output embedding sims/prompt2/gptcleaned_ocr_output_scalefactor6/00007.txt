@@ -1,0 +1,6 @@
+Mistakes in original text:
+1. "the" should be "The"
+2. "there" should be "There"
+
+Corrected text:
+The following test is from OCR. There are some errors please fix them and return the text with no additional correspondence:

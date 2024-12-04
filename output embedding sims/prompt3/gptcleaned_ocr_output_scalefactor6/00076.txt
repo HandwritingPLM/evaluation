@@ -1,0 +1,2 @@
+Raw: The concept of 'manufacturing consent' was first introduced by Edward S. Hernays, but it was further developed by Noam Chomsky and Edward S. Herman in their book 'Manufacturing Consent: The Political Economy of the Mass Media' (1988).
+Cleaned: The concept of 'manufacturing consent' was first introduced by Edward S. Bernays, but it was further developed by Noam Chomsky and Edward S. Herman in their book 'Manufacturing Consent: The Political Economy of the Mass Media' (1988).

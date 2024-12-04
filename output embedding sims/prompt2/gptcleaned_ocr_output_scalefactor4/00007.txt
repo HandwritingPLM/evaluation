@@ -1,0 +1,10 @@
+1. The capital of France is Paris.
+2. There are 24 hours in a day.
+3. Water freezes at 100 degrees Celsius.
+4. The opposite of hot is cold.
+5. A triangle has four sides.
+6. The square root of 64 is 9.
+7. Oxygen is the most abundant element in the earth's atmosphere.
+8. William Shakespeare wrote "Romeo and Juliet".
+9. The acceleration due to gravity is 9.81 m/s^2.
+10. The human body has 206 bones.

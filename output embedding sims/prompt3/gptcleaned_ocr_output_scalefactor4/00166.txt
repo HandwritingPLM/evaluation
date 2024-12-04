@@ -1,0 +1,2 @@
+raw: 20.Ibid, p.78. 
+cleaned: 20. Ibid, p. 78.

@@ -1,0 +1,2 @@
+raw: Political scientists have failed to create a theory of comparative politics that can provide the rigor needed to make research on political development more objective than it presently is. Frost, Ministery of change. [Morgan, R. 1989]
+cleaned: Political scientists have failed to create a theory of comparative politics that can provide the rigor needed to make research on political development more objective than it presently is (Morgan, 1989).

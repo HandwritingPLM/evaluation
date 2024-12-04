@@ -1,0 +1,12 @@
+The following test is from OCR. Fix the errors and return the text with no additional comments:
+
+1. The quick brown fox jumped over the lazy dog.
+2. Theres a red apple on the table.
+3. She didnt go to the party last night.
+4. Can you please bring me a glas of water?
+5. They're going to the movies this evening.
+6. He wnt to the store to buy some milk.
+7. I saw her walking down the street with her friend.
+8. Its a beautiful day outside.
+9. Whos going to be the next president?
+10. Ive never been to Paris before.

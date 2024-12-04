@@ -1,0 +1,12 @@
+The following test is from OCR. Please find and rectify the errors:
+
+1. Original text: raeds
+Corrected text: reads
+
+2. Original text: choce
+Corrected text: choice
+
+3. Original text: dineer
+Corrected text: dinner
+
+Thank you.

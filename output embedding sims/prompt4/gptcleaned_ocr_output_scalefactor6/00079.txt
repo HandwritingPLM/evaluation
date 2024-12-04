@@ -1,0 +1,3 @@
+raw: Jaegkm, Lassell, and Bernajs have all made significant contra6utions to the study of propaganda and public opinion. 
+
+cleaned: Jaeger, Lasswell, and Bernays have all made significant contributions to the study of propaganda and public opinion.

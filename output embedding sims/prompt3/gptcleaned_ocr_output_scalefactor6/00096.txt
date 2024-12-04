@@ -1,0 +1,9 @@
+Like many other structuralist scholars, Barthes was influenced by Ferdinand de Saussure, the linguistic scholar who broke down language operations into two levels, the systemic level and the level of speech. The former involves langue and the latter parole. Langue consists of conventions necessary for communication, while parole is seen as individual speech acts.
+
+A language is therefore a social institution and a system of values. Langue, the systemic level of language, involves shared conventions or values within a society. On the other hand, parole is considered more flexible since individual speech cannot be entirely constrained by conventions.
+
+Focusing on the systematic level, Saussure distinguishes language into two parts: the signified and the signifier. The signified is the concept or meaning expressed, while the signifier is the external form of language. Saussure argues that language constructs meaning from within itself through a series of conceptual and phonic differences.
+
+According to Saussure, meaning is produced through a process of selection and combination of signs along two axes - syntagmatic (e.g. a sentence) and paradigmatic (e.g. synonyms). The syntagmatic level involves a sequence, while the paradigmatic level involves a field of possible signs that can be replaced with one another.
+
+Saussure emphasizes that signs derive their meaning from relationships with other signs, rather than from reference to independent objects. This highlights the inherently social nature of language as meaning is generated through the relations between signs. This is crucial to Saussure's argument that meaning is not inherent but constructed through the cultural conventions of language usage within a specific context.

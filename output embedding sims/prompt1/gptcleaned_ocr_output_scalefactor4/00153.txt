@@ -1,0 +1,16 @@
+In 1931, he earned his B.A. degree from Iowa.
+
+In 1966, he worked on some family planning programs in Al-As.
+
+The book has become the standard textbook on diffusion theory and its applications in demography, economics, psychology, political science, and as previously hinted at before, in Mexico in 204.
+
+According to Rogers (1996), diffusion refers to “the process by which an innovation is communicated through certain channels over time among the members of a social system. An innovation is an idea, practice, or object perceived as new by a mass media and in a model of communication that is analyzed as five parts, S-M-C-R-E (sender-message-channel-receiver-effect). Rogers (1995) mentioned, “this S-M-C-R-E communication model corresponds closely to the elements of diffusion.” Specifically, (1) the sender can be inventors or opinion leaders, (2) the message can be a new idea or product, (3) the channels can be interpersonal or mass communication, (4) the receivers can be members of a social system, and finally (5) the effects can be an individual's adoption or social change. In the diffusion theory, the ‘Time’ variable is a very important factor. According to Rogers (1999), the time variable is involved in diffusion in (1) the innovation-decision process, (2) innovativeness, and (3) an innovation’s rate of adoption. Most innovations have an S-shaped rate of adoption. Diffusion research has attempted to explain the variables that influence how and why users and audiences adopt a new information medium, such as the Internet. According to the evolution of media technology, interpersonal influences are important even though in the past, the individual is usually the unit of analysis. Also, critical mass becomes an important factor in adopting new media because new media are interactive tools and are required by many users to gain efficiency. That is, the more people use, the more people benefit. In this sense, diffusion theory not only can apply to practical things but also can be related to the digital divide.
+
+There are five different types of adopters in the diffusion process, according to Innovativeness: (1) Innovators (venturesome), (2) Early Adopters (respectable), (3) Early Majority (deliberate), (4) Late Majority (skeptical), and (5) Laggards (traditional). The rate at which an individual is relatively earlier in adopting new ideas lies on the spectrum of the adoption curve. Also, these categories are divided by innovativeness and their place on the adoption curve, which is bell-shaped.
+
+When it comes to the process of innovation-decisions, Rogers (1995) mentioned that there are five stages:
+1. Knowledge +/- (selective exposure and awareness of news)
+2. Persuasion (positive or negative attitudes toward the innovation)
+3. Decision (people decide to adopt the innovation)
+4. Implementation (regular or standard practice)
+5. Confirmation (comparing and evaluating)

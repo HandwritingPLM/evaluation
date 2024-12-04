@@ -1,0 +1,3 @@
+raw: Some stunning large-scale examples of craft projects can be found in major cities. In several cosmopolitan urban centres, massive sculptures are frequently installed to wow the passing crowds. 
+
+cleaned: Some stunning large-scale examples of craft projects can be found in major cities. In several cosmopolitan urban centers, massive sculptures are frequently installed to wow the passing crowds.

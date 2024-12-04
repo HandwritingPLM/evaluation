@@ -1,0 +1,9 @@
+Lies munann of the structuralist scholar, Barthes was influenced by Saussure's structural strategies.
+
+According to Saussure, the linguistic mechanism operates on two levels, the internal systematic system of variations among elements. The Saussurean model differentiates between langue and parole. Langue is the system of language as a social contract, while parole is the individual act of speech. The speaking subject can use the system of language to express unique personal thoughts. Parole is a combination activity corresponding to an individual act rather than pure information. 
+
+Building on the Saussurean model, language is divided into two parts, the signified and the signifier. The signified represents the concept or meaning, expressed through the signifier. For instance, the word 'dog' in English or in French represents the actual animal. This relationship between signifier and signified forms the basis of language.
+
+Saussure argues that language does not represent external objects directly but instead signifies meaning through a series of conceptual and phonetic differences. Language operates through two axes, the syntagmatic (linear) and the paradigmatic (selection). The syntagmatic represents a linear order of signs, while the paradigmatic consists of a field of potential signs that can replace each other. The selection of signs is regulated by linguistic community norms.
+
+Through the syntagmatic and paradigmatic axes, signs only acquire meaning in reference to each other within a system of signification created by linguistic conventions. Meaning is understood as a social convention maintained through the relationships between signs.

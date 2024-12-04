@@ -1,0 +1,2 @@
+raw: Bothe Lophmarn and Bernay were largely concerned with the role of propaganda in influencing public opinion. 
+cleaned: Both Lippmann and Bernays were largely concerned with the role of propaganda in influencing public opinion.

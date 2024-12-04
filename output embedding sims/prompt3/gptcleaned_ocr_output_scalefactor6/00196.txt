@@ -1,0 +1,3 @@
+raw: Thus, the rle of the barn in human well-being and health remains of great interest to scientist and public alike. Rresent dichiplineary understandings of it's impacts Are still evolving, with recent emphases made on understanding how barns can promote 'nmental and uman heah through the Rroducts they provide. 
+
+cleaned: Thus, the role of the barn in human well-being and health remains of great interest to scientists and the public alike. Recent disciplinary understandings of its impacts are still evolving, with recent emphasis placed on understanding how barns can promote environmental and human health through the products they provide.

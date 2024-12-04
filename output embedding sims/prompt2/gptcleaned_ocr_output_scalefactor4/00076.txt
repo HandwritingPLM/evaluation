@@ -1,0 +1,5 @@
+Original text:
+The purpos of this test is to help you understand your current level of English language skills
+
+Corrected text:
+The purpose of this test is to help you understand your current level of English language skills.

@@ -1,0 +1,2 @@
+raw: Pibann intressed in journalism throughount entertainmenn ia general competina, wirn odieres suaaected movie Erhesseraeney eb olbesses are enterunent experiebces, asymmetric to dayan lands [Fatlaaa, 1982. pg 179]. 
+cleaned: Public interest in journalism throughout entertainment in general has been a topic of contention, with some arguing that movie-goers and viewers are seeking entertainment experiences that are immersive and engaging, contrary to dry presentations (Falk, 1982, pg. 179).

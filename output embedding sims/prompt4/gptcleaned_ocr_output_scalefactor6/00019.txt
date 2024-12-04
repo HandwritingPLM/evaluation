@@ -1,0 +1,2 @@
+Raw: In fact, yany experts consider propaganda to be a necessary tool for shapping public opinion (Ellul, 1973, p.58). 
+Cleaned: In fact, many experts consider propaganda to be a necessary tool for shaping public opinion (Ellul, 1973, p.58).

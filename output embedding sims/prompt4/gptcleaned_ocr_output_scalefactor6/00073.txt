@@ -1,0 +1,3 @@
+
+raw: Mendesheles described propaganda as "propaganda." He believed that propaganda was essential for shaping public opinion (Mendesheles, 1944). 
+cleaned: Mendelsohn described propaganda as "propaganda." He believed that propaganda was essential for shaping public opinion (Mendelsohn, 1944).

@@ -1,0 +1,12 @@
+The following test is from OCR. Fix the errors and return the text:
+
+1. The quick brown fox jumps over the lazy dog.
+2. She sells seashells by the seashore.
+3. How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+4. Peter Piper picked a peck of pickled peppers.
+5. Betty Botter bought some butter, but she said this butter's bitter.
+6. How can a clam cram in a clean cream can?
+7. I scream, you scream, we all scream for ice cream.
+8. Unique New York, Unique New York.
+9. Rubber baby buggy bumpers.
+10. How much wood would a woodchuck chuck if a woodchuck could chuck wood?

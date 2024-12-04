@@ -1,0 +1,2 @@
+raw: It is yuetrary this view that Rahard impirical wark was less influential than Lipprvum's writing (Lizinger, 1994). 
+cleaned: It is contrary to this view that Harold's empirical work was less influential than Lippmann's writing (Lazinger, 1994).

@@ -1,0 +1,3 @@
+raw: Propaganda in the Soviet Union had four basic assafe: (1) the Soviet Union was the model society; (2) all Soviet citizens should work hard; (3) the Soviet economic system was successful; and (4) everyone should follow the guidance of the Communist Party. 
+
+cleaned: Propaganda in the Soviet Union had four basic messages: (1) the Soviet Union was the model society; (2) all Soviet citizens should work hard; (3) the Soviet economic system was successful; and (4) everyone should follow the guidance of the Communist Party.
